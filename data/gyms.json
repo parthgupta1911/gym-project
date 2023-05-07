@@ -1,0 +1,46 @@
+[
+  {
+    "location": {
+      "type": "Point",
+      "cordinates": [77.36072843085307, 28.634294392323667],
+      "address": "4-5, LGF, Gaur Gravity, 8, Kala Pathar Rd, Vaibhav Khand",
+      "description": " Indirapuram, Ghaziabad, Uttar Pradesh"
+    },
+    "_id": "64417460612a15872f57b12a",
+    "name": "Gold's Gym",
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "cordinates": [77.37820728670837, 28.64105620939014],
+      "address": "Jaipuria Sunrise plaza SB-63, Top Floor, 12-A, Ahinsa Khand 1",
+      "description": " Indirapuram, Ghaziabad, Uttar Pradesh"
+    },
+    "_id": "644174be612a15872f57b12c",
+    "name": "Functional Fitness Gym and Spa",
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "cordinates": [77.37478395416294, 28.524900384499563],
+      "address": "Shop No 1 to 5, Divine Meadows, GH04, Sector 108",
+      "description": " Noida, Uttar Pradesh"
+    },
+    "_id": "6441758f612a15872f57b12e",
+    "name": "Anytime Fitness",
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "cordinates": [77.36893840836548, 28.622982503068066],
+      "address": "Rn-27, Rasoolpur Nawada, B Block, Sector 62",
+      "description": " Noida, Uttar Pradesh"
+    },
+    "_id": "64417607612a15872f57b130",
+    "name": "The PowerHouse gym",
+    "__v": 0
+  }
+]
